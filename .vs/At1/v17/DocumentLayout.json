@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonardo\\source\\repos\\At1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio9b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio9b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio9a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio9a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|c:\\users\\leonardo\\source\\repos\\at1\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3634F497-5450-4B39-8C05-621915518925}|At1.csproj|solutionrelative:exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicio12.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio12.cs",
+              "RelativeDocumentMoniker": "Exercicio12.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio12.cs",
+              "RelativeToolTip": "Exercicio12.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAowKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:46:41.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio11.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio11.cs",
+              "RelativeDocumentMoniker": "Exercicio11.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio11.cs",
+              "RelativeToolTip": "Exercicio11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:46:18.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercicio10.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio10.cs",
+              "RelativeDocumentMoniker": "Exercicio10.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio10.cs",
+              "RelativeToolTip": "Exercicio10.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:45:50.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicio9B.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio9B.cs",
+              "RelativeDocumentMoniker": "Exercicio9B.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio9B.cs",
+              "RelativeToolTip": "Exercicio9B.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:45:23.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicio9A.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio9A.cs",
+              "RelativeDocumentMoniker": "Exercicio9A.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio9A.cs",
+              "RelativeToolTip": "Exercicio9A.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:44:20.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercicio8.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio8.cs",
+              "RelativeDocumentMoniker": "Exercicio8.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio8.cs",
+              "RelativeToolTip": "Exercicio8.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwAcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:44:04.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercicio7.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio7.cs",
+              "RelativeDocumentMoniker": "Exercicio7.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio7.cs",
+              "RelativeToolTip": "Exercicio7.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:43:41.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exercicio6.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio6.cs",
+              "RelativeDocumentMoniker": "Exercicio6.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio6.cs",
+              "RelativeToolTip": "Exercicio6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:38:24.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Exercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio3.cs",
+              "RelativeDocumentMoniker": "Exercicio3.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio3.cs",
+              "RelativeToolTip": "Exercicio3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:36:58.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Exercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio2.cs",
+              "RelativeDocumentMoniker": "Exercicio2.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio2.cs",
+              "RelativeToolTip": "Exercicio2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:35:30.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:26:35.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio5.cs",
+              "RelativeDocumentMoniker": "Exercicio5.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio5.cs",
+              "RelativeToolTip": "Exercicio5.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA7wD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:37:59.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Exercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio4.cs",
+              "RelativeDocumentMoniker": "Exercicio4.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio4.cs",
+              "RelativeToolTip": "Exercicio4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:37:28.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Exercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio1.cs",
+              "RelativeDocumentMoniker": "Exercicio1.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\source\\repos\\At1\\Exercicio1.cs",
+              "RelativeToolTip": "Exercicio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:32:40.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
